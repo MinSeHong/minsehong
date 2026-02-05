@@ -1,13 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=MIN%20SE%20HONG&fontAlignY=45&fontSize=40&height=150&desc=Web%20Developer&descAlignY=70"/>
-</p>
-<p align='center'>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=minsehong" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minsehong&layout=compact&langs_count=8&card_width=320" />
-    </a>
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=MIN%20SE%20HONG&fontAlignY=45&fontSize=40&height=150&desc=FullStack%20Developer&descAlignY=70"/>
 </p>
 
 *****
